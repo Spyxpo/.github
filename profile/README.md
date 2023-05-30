@@ -15,7 +15,7 @@
   <a href="https://github.com/spyxpo" target="_blank">
     <img src="https://github.com/Spyxpo/.github/blob/stable/profile/images/logos/github.png?raw=true" height="30px">
   </a>
-  <a href="https://www.linkedin.com/in/spyxpo" target="_blank">
+  <a href="https://www.linkedin.com/company/spyxpo/" target="_blank">
     <img src="https://github.com/Spyxpo/.github/blob/stable/profile/images/logos/linkedin.png?raw=true" height="30px">
   </a>
   <a href="https://www.instagram.com/spyxpo" target="_blank">
