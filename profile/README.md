@@ -37,5 +37,3 @@
     Discover Spyxpo
   </a>
 </p>
-
-#
