@@ -13,22 +13,19 @@
 
 <p align="center">
   <a href="https://github.com/spyxpo" target="_blank">
-    <img src="./images/logos/github.png" height="30px">
+    <img src="https://github.com/Spyxpo/.github/blob/stable/profile/images/logos/github.png?raw=true" height="30px">
   </a>
   <a href="https://www.linkedin.com/in/spyxpo" target="_blank">
-    <img src="./images/logos/linkedin.png" height="30px">
-  </a>
-  <a href="https://www.leetcode.com/spyxpo" target="_blank">
-    <img src="./images/logos/leetcode.png" height="30px">
+    <img src="https://github.com/Spyxpo/.github/blob/stable/profile/images/logos/linkedin.png?raw=true" height="30px">
   </a>
   <a href="https://www.instagram.com/spyxpo" target="_blank">
-    <img src="./images/logos/ig.png" height="30px">
+    <img src="https://github.com/Spyxpo/.github/blob/stable/profile/images/logos/ig.png?raw=true" height="30px">
   </a>
   <a href="https://www.twitter.com/spyxpo" target="_blank">
-    <img src="./images/logos/twitter.png" height="30px">
+    <img src="https://github.com/Spyxpo/.github/blob/stable/profile/images/logos/twitter.png?raw=true" height="30px">
   </a>
   <a href="https://www.youtube.com/@spyxpo" target="_blank">
-    <img src="./images/logos/youtube.png" height="30px">
+    <img src="https://github.com/Spyxpo/.github/blob/stable/profile/images/logos/youtube.png?raw=true" height="30px">
   </a>
 </p>
 
@@ -37,3 +34,5 @@
     Discover Spyxpo
   </a>
 </p>
+
+#
