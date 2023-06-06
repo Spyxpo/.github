@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the <a href="https://www.spyxpo.com/">Spyxpo</a></h1><br>
+<h1 align="center">Welcome to <a href="https://www.spyxpo.com/">Spyxpo</a></h1><br>
 
 <p align="center">
   <a href="https://www.spyxpo.com/">
